@@ -6,9 +6,24 @@ nav_order: 1
 
 # IDEAtlas: DUA Mapping Training
 
-This training module provides the technical foundation for mapping Deprived Urban Areas (DUA). As urban populations grow, identifying areas of deprivation at scale is critical for urban planning and humanitarian intervention.
+This workshop provides the technical foundation for mapping Deprived Urban Areas (DUA) using open Earth Observation (EO) data and advanced geospatial AI. As urban populations expand, the ability to identify and characterize DUA at scale is essential for informed urban planning and humanitarian action.
 
-## Training Objectives
-* Learn the fundamentals of mapping DUA using multi-modal Earth Observation (EO) data.
-* Master the end-to-end workflow, from raw satellite imagery processing to model inference.
-* Derive actionable indicators (e.g., SDG 11.1.1) from spatial outputs.
+## Workshop Objectives
+
+The objective of this training is to equip participants with the skills to implement an end-to-end mapping pipeline. By the end of this workshop, you will be able to:
+
+### 1. Data Creation & Labeling
+*   **IDEAtlas User Data Portal:** Learn to navigate [portal.ideatlas.eu](https://portal.ideatlas.eu) to identify urban regions.
+*   **Annotation Protocols:** Collect and create high-quality polygons to generate standardized labels, reference data, and masks required for robust model training.
+
+### 2. The Mapping Workflow
+You will master the full lifecycle of a DUA mapping project, including:
+
+*   **Classification:** Execute inference using the IDEAtlas pre-trained models to map a city's DUA extent.
+*   **Fine-tuning:** Adapt existing pre-trained models to new geographic contexts when local reference data is limited.
+*   **Training:** Develop and train custom models from scratch for specific urban environments where high-density training data is available.
+*   **Indicator Derivation:** Process classified maps to generate summary statistics aligned with **SDG 11.1.1** (Proportion of population living in slums, informal settlements, or inadequate housing).
+
+---
+
+*Navigate through the sidebar to access the Data & Notebooks section or to visit the official IDEAtlas project resources.*
