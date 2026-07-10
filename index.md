@@ -20,7 +20,7 @@ You will master the full lifecycle of a DUA mapping project, including:
 
 *   **Classification:** Execute inference using the IDEAtlas pre-trained models to map a city's DUA extent.
 *   **Fine-tuning:** Adapt existing pre-trained models to new geographic contexts when local reference data is limited.
-*   **Training:** Develop and train custom models from scratch for specific urban environments where high-density training data is available.
+*   **Training:** Train custom models from scratch for specific city where sufficient training data is available.
 *   **Indicator Derivation:** Process classified maps to generate summary statistics aligned with **SDG 11.1.1**.
 
 ---
