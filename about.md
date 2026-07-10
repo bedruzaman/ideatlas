@@ -4,7 +4,7 @@ title: IDEAtlas
 nav_order: 3
 ---
 
-# IDEAtlas Infrastructure
+# IDEAtlas
 
 The IDEAtlas is focused on creating standardized and scalable deprivation mapping.
 
