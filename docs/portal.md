@@ -11,4 +11,4 @@ Access the annotation workflow to create reference data:
 
 * **[Launch IDEAtlas User Data Portal](https://portal.ideatlas.eu){:target="_blank"}**
 
-*Follow the provided workshop manual for digitization protocols and attribute formatting.*
+*Follow the IDEAtlas user handbook for digitization protocols.*
