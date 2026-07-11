@@ -79,5 +79,5 @@ nav_order: 2
     <li><strong>AOI Boundary:</strong> Shapefile defining the city limits</li>
     <li><strong>Reference Polygons:</strong> Pre-digitized DUA polygons for training data</li>
   </ul>
-  <a href="#" class="btn">⬇️ Download Data Archive</a>
+  <a href="https://drive.google.com/drive/u/0/folders/1RaaN0s6PXwAkDleOlr6FjZNLHDvCZ_PN" target="_blank" class="btn">⬇️ Download Data Archive</a>
 </div>
